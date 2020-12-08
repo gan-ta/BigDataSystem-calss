@@ -10,6 +10,3 @@
 ### 실행환경
 - juptyer notebook
 - databricks cloud
-
-#### 실행방법
-pyspark 설치 이후 juptyer notebook으로 실행
